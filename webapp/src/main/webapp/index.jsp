@@ -11,7 +11,6 @@
     <p>Test 2</p>
     <p>Test 3</p>
     <p>Test 4</p>
-    
     <label for="mobile"><b>Enter mobile</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
